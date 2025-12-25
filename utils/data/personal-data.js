@@ -15,3 +15,4 @@ export const personalData = {
   leetcode: "https://leetcode.com/u/22BCE213/",
   devUsername: "Tanna Ohm",
   resume: "https://drive.google.com/file/d/1Eiq918V7lhGAy-W667uAzaxqXJXJciHD/view?usp=sharing"
+}
