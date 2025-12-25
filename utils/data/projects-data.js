@@ -6,35 +6,36 @@ import travel from '/public/image/travel.jpg';
 export const projectsData = [
     {
         id: 1,
-        name: 'Question Paper Generator',
-        description: "A C++ app that automates question paper generation in PDF format, improving efficiency by 30% with dynamic question selection and formatting options.",
-        tools: ['C++', 'PDF Generation', 'Automation'],
-        role: 'Developer',
-        code: 'https://github.com/tannaohm0/Question_Paper_Generator-Generator',
+        name: 'Customer Churn Predictor',
+        description: "A machine learning model built on 10K+ banking records to predict customer churn using demographic and financial features. Achieved best performance with XGBoost (87% precision, 82% recall) and improved accuracy by 20% through SMOTE-based class imbalance handling and feature preprocessing.",
+        tools: ['Python', 'Machine Learning', 'XGBoost', 'SMOTE', 'Pandas', 'Scikit-learn'],
+        role: 'Machine Learning Developer',
+        code: 'https://github.com/tannaohm0/Customer_Churn_Predictor',
         demo: '',
-        image: ayla, 
+        image: ayla,
     },
     {
         id: 2,
-        name: 'Gym Management System',
-        description: "A web-based system using HTML, CSS, JavaScript, PHP, and MySQL to streamline gym operations, reducing overhead by 40% with an integrated UI and backend.",
-        tools: ['HTML', 'CSS', 'JavaScript', 'PHP', 'MySQL'],
+        name: 'Personal Finance Dashboard',
+        description: "A real-time personal finance dashboard built using Next.js and Supabase for budgeting and expense tracking. Implemented secure JWT-based authentication and boosted user engagement by 45% through interactive data visualizations using Recharts and Material UI.",
+        tools: ['Next.js', 'Node.js', 'SQL', 'Supabase', 'JWT', 'Recharts', 'Material UI'],
         role: 'Full Stack Developer',
-        code: 'https://github.com/tannaohm0/Gym_Management_System',
-        demo: '',
+        code: 'https://github.com/tannaohm0/Personal_Finance_Dashboard_Final',
+        demo: 'https://personal-finance-dashboard-final3.vercel.app/',
         image: crefin,
     },
     {
         id: 3,
-        name: 'Chat with CSV',
-        description: "A Streamlit web app that enables users to query CSV files using natural language, improving data accessibility with real-time visualization and a responsive UI.",
-        tools: ['Python', 'Streamlit', 'Data Visualization', 'Natural Language Processing'],
-        role: 'Developer',
-        code: 'https://github.com/kushalpatel0265/Inode-Management-System',
+        name: 'Gym Management System',
+        description: "A modular gym management system developed using PHP and MySQL to manage members, trainers, payments, and daily operations. Optimized backend queries to efficiently handle 1,000+ member records.",
+        tools: ['PHP', 'MySQL', 'HTML', 'CSS', 'JavaScript'],
+        role: 'Backend / Full Stack Developer',
+        code: 'https://github.com/tannaohm0/Gym_Management_System',
         demo: '',
-        image: realEstate, 
+        image: realEstate,
     }
 ];
+
 
 
 

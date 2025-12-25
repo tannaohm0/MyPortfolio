@@ -1,8 +1,8 @@
 export const personalData = {
   name: "Tanna Ohm",
   profile: '/ohm.jpg',
-  designation: "Software Engineer",
-  description: "My name is Tanna Ohm. I am a Software Engineer, pursuing my bachelor in Computer Science & Engineering at Nirma University with some knowledge and experience in Python, Next.js, React.js, React Native, C++, JavaScript, PHP, Laravel and Database. Theory knowledge in OOP and Data structure and Algorithm..",
+  designation: "AL-ML Expert",
+  description: "A Computer Science & Engineering student with strong expertise in Data Structures & Algorithms and Machine Learning and with minor in Adaptive AI with a focus on innovation and efficiency.",
   email: 'tannaohm5@gmail.com',
   phone: '+918320137020',
   address: 'Ahmedabad , Gujarat India',
@@ -14,5 +14,4 @@ export const personalData = {
   stackOverflow: 'https://www.instagram.com/tanna_ohm_/',
   leetcode: "https://leetcode.com/u/22BCE213/",
   devUsername: "Tanna Ohm",
-  resume: "https://drive.google.com/file/d/1e6UaT3LAHGL1woNPZMc3d-ojGs-ORJM0/view?usp=sharing"
-}
+  resume: "https://drive.google.com/file/d/1Eiq918V7lhGAy-W667uAzaxqXJXJciHD/view?usp=sharing"
